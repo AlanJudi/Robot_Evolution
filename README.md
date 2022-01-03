@@ -7,6 +7,7 @@ Create a virtual environment:
  Install Pybullet:
  
   - pip install pybullet
+  - pip install numpy
   
  Run simulation:
  
