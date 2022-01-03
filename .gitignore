@@ -1,0 +1,12 @@
+.venv/*
+.venv
+*.urdf
+temp*.urdf
+temp0.urdf
+temp1.urdf
+temp3.urdf
+temp4.urdf
+temp5.urdf
+temp6.urdf
+temp7.urdf
+__pycache__/*
